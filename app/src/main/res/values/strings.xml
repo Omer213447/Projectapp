@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Projectapp</string>
+    <string name="login_activity_tvTitle">App</string>
+    <string name="login_activity_etUsername_hint">admin</string>
+    <string name="login_activity_tvUsername">Username</string>
+    <string name="login_activity_tvPassword">Password</string>
+    <string name="login_activity_btnSubmit">Submit</string>
+    <string name="login_activity_etPassword_hint">User123!</string>
+    <string name="new_password_activity_password_warning_6characters">Password must contain atleast 6 characters</string>
+    <string name="new_password_activity_password_warning_uppercase">Password must contain uppercase letter(s)</string>
+    <string name="new_password_activity_password_warning_special_characters">Password must contain some special characters like . - ! ; , etc.</string>
+    <string name="login_activity_warning_username_password_wrong">Username and password is Wrong</string>
+    <string name="login_activity_warning_password_wrong">Password is wrong</string>
+    <string name="login_activity_warning_username_wrong">Username is wrong</string>
 </resources>
